@@ -1,0 +1,42 @@
+@font-face{
+    font-family: "inter";
+    src: url(Inter.ttf);
+}
+div{
+    width: 562px;
+    height: 818px;
+    background-color: #FAFAFA;
+    border: 1px solid #DCDCDC;
+    border-radius: 20px;
+    margin-top: 88px;
+    margin-left: 439px;
+}
+img{
+    width: 237.95px;
+    height: 184.57px;
+    margin-top: 76px;
+    margin-left: 156px;
+}
+h1{
+    font-family: "Inter";
+    font-size: 30px;
+    color: #000000;
+    margin-left: 56px;
+}
+hr{
+    margin-left: 56px;
+    max-width: 443px;
+}
+p{
+    max-width: 443px;
+    margin-left: 56px;
+    font-family: "Inter";
+    font-size: 19px;
+}
+a{
+    text-decoration: none;
+    float: right;
+    margin-right: 58px;
+    font-family: "Inter";
+    font-size: 20p
+}
